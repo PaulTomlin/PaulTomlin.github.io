@@ -4,5 +4,7 @@ nav {
     background: yellow;
 }
 footer{
-    bottom: 0;
+    background: green;
+    bottom : 0;
     }
+section{background:purple;}
