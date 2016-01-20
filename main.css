@@ -3,3 +3,6 @@ body{background: Pink;}
 nav {
     background: yellow;
 }
+footer{
+    bottom: 0;
+    }
