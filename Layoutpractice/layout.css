@@ -12,8 +12,8 @@ body {
     margin: 0 auto 0 auto;
 }
 
-.promo-container {
-    background: cornsilk;
+.promo-container {srv="russia";
+    background-color: beige;
 }
 
 header {
@@ -21,7 +21,7 @@ header {
 }
 
 .branding {
-    background: black;
+    background: none;
     width:150px;
     height:45px;
     margin-right: auto;
@@ -46,6 +46,7 @@ header {
 
 #big-promo {
     padding-top: 200px;
+    background: url(russia.jpg);
 }
 
 .promo-message {
