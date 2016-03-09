@@ -1,13 +1,53 @@
 body {
   margin: 20px;
+    font-family: Arial;
 }
-
+.header{
+    background-color: aquamarine;
+    font-size: 30px;
+}
 * {
   box-sizing: border-box;
 }
 
 #wrapper {
   border: 2px dotted slategray;
-  width: 800px;
-  margin: 0 auto;
+    width:800px;
+    margin: o auto;
+    padding: 20px;
 }
+
+
+nav >a {
+    background-color: beige;
+    color: cornsilk;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 18px 24 px;
+    display: inline-block;
+}
+    
+header{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 28px;
+    background-color: cyan
+}
+    
+    h1, h3{
+        margin: 7px;
+    }
+    
+    img{ src:"photo-1451417379553-15d8e8f49cde.jpeg"
+        float: left;
+        margin-right: 13px;
+    }
+    
+    footer{
+        border: 7px soild black;
+        padding: 17px;
+    }
+    
+    footer h4{
+        margin 0 0 10px 0;
+    }
