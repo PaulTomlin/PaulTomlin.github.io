@@ -38,7 +38,7 @@ header{
         margin: 7px;
     }
     
-    img{ src:"photo-1451417379553-15d8e8f49cde.jpeg"
+    img{<img src="photo-1451417379553-15d8e8f49cde.jpeg" alt="=Sea View" style="width:150px;height:2oopx;">
         float: left;
         margin-right: 13px;
     }
