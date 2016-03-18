@@ -25,14 +25,6 @@ background-image: url(top.png);
     height: 80px;
     margin: 0 auto 0 auto;  
 }
-.ttop {
-    position: relative;
-    padding-top: 70px;
-height: 50px;
-width: 800px;
-font-size: 40px;
-padding-left: 300px;}
-
 .topright {
     position: relative;
     float: right;
@@ -51,15 +43,6 @@ padding-left: 300px;}
     color: bisque;
     padding-top: 20px;
     padding-left: 10px
-}
-.butt {
-  position: relative;
-    padding-top: 70px;
-height: 30px;
-width: 40px;
-padding-left: 370px;
-
-
 }
 a {text-decoration: none;}  
 a:hover {color: black;}
